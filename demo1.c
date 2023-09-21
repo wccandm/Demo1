@@ -24,7 +24,7 @@
 
 #include <Arduino.h>
 
-int iBlinkSpeed = 1000;             // the blink speed in milli seconds
+int iBlinkSpeed = 500;              // the blink speed in milli seconds
 
 // the setup function runs once when you press reset or power the board
 void setup() {
